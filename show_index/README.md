@@ -1,5 +1,4 @@
 # show_index - Python Module to Find the Index of a Specific Target in a List
-[![Downloads][downloads-badge]][releases]
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 ## Overview
